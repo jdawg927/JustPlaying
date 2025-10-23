@@ -7,8 +7,8 @@ Welcome to your Git & GitHub learning journey! This guide will take you from bas
 ## Table of Contents
 
 1. [Fundamentals](#1-fundamentals)
-   - [Creating and Managing Branches](#creating-and-managing-branches)
-   - [Making Commits](#making-commits)
+   - [Creating and Managing Branches](#creating-and-managing-branches) started
+   - [Making Commits](#making-commits) started
    - [Merging Strategies](#merging-strategies)
    - [Handling Merge Conflicts](#handling-merge-conflicts)
 2. [Pull Request Workflow](#2-pull-request-workflow)
